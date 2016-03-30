@@ -1,3 +1,3 @@
 
 
-System.out.print"Masukkan nama : ";
+System.out.print"Masukkan nama : septira ";
